@@ -1,6 +1,6 @@
 package com.devsuperior.dslist.dto;
 
-public class GameMinDto {
+public class GameMinDto { 
 
     private long id;
     private String title;
